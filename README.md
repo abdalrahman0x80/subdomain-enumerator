@@ -8,3 +8,6 @@ python subdomainEnumerator.py -h
 ```bash
 python subdomainEnumerator.py [-h] target wordlist
 ```
+# download wordlist for this tool
+
+[download wordlist from here](https://github.com/n0kovo/n0kovo_subdomains)
