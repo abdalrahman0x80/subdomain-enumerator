@@ -2,9 +2,9 @@
 subdomain enumerator tools fast and strong tool
 # show Help 
 ```bash
-subdomainEnumerator.py -h
+python subdomainEnumerator.py -h
 ```
 # how to use
 ```bash
-subdomainEnumerator.py [-h] target wordlist
+python subdomainEnumerator.py [-h] target wordlist
 ```
